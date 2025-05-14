@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🚀 Java Project Deployment on AWS EC2 (Ubuntu)
 
@@ -164,3 +165,6 @@ Visit:
 ![image alt](https://github.com/riyaj-2002/Inventory-Management-System-Spring-Boot-project/blob/f42a1364b34b1f0b437a37544a7f05a12d394e56/Inventory-Management-System-Spring-Boot-main/Screenshot%202025-04-25%20170013.png)
 
 
+=======
+# springboot_project
+>>>>>>> 17cbb74f559aab4ec45503740925c208bf949673
